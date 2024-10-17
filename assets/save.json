@@ -1,0 +1,54 @@
+{
+  "exercises": [
+    {
+      "fitness": "squat",
+      "landmarkstype": [
+        {
+          "type": "PoseLandmarkType.leftShoulder,PoseLandmarkType.leftElbow",
+          "x": 90,
+          "y": 200
+        },
+        {
+          "type": "PoseLandmarkType.rightElbow,PoseLandmarkType.rightShoulder",
+          "x": 90,
+          "y": 200
+        },
+        {
+          "type": "PoseLandmarkType.leftWrist,PoseLandmarkType.leftElbow",
+          "x": 0,
+          "y": 360
+        },
+        {
+          "type": "PoseLandmarkType.rightWrist,PoseLandmarkType.rightElbow",
+          "x": 0,
+          "y": 360
+        }
+      ]
+    },
+    {
+      "fitness": "omuz",
+      "landmarkstype": [
+        {
+          "type": "rightShoulder,rightElbow",
+          "x": 300,
+          "y": 200
+        },
+        {
+          "type": "leftElbow,leftShoulder",
+          "x": 150,
+          "y": 250
+        },
+        {
+          "type": "leftWrist,leftElbow",
+          "x": 200,
+          "y": 300
+        },
+        {
+          "type": "rightWrist,rightElbow",
+          "x": 200,
+          "y": 300
+        }
+      ]
+    }
+  ]
+}
